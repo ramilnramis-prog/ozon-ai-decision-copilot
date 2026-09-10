@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=65"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ozon-ai-decision-copilot"
+version = "0.1.0"
+description = "AI-assisted decision support for marketplace operations"
+requires-python = ">=3.11"
+dependencies = ["openai>=2,<3", "streamlit>=1.40,<2"]
+
+[project.optional-dependencies]
+test = ["pytest>=9,<10"]
+
+[tool.setuptools.packages.find]
+include = ["app*"]
+
+[tool.pytest.ini_options]
+addopts = "-ra"
+testpaths = ["tests"]

@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0",
+  "source": {
+    "source_type": "demo",
+    "provider": "demo_dataset",
+    "source_timestamp": "2026-09-02T09:00:00+03:00"
+  },
+  "records": [
+    {"sku": "DEMO-004", "quantity": 100, "status": "confirmed", "expected_arrival": "2026-09-04"},
+    {"sku": "DEMO-005", "quantity": 200, "status": "confirmed", "expected_arrival": "2026-09-20"},
+    {"sku": "DEMO-006", "quantity": 100, "status": "unconfirmed", "expected_arrival": "2026-09-05"},
+    {"sku": "DEMO-007", "quantity": 60, "status": "confirmed", "expected_arrival": "2026-09-06"},
+    {"sku": "DEMO-007", "quantity": 80, "status": "confirmed", "expected_arrival": "2026-09-12"},
+    {"sku": "DEMO-025", "quantity": 120, "status": "confirmed", "expected_arrival": "2026-09-03"},
+    {"sku": "DEMO-026", "quantity": 180, "status": "confirmed", "expected_arrival": "2026-09-18"},
+    {"sku": "DEMO-027", "quantity": 90, "status": "unconfirmed", "expected_arrival": "2026-09-04"},
+    {"sku": "DEMO-028", "quantity": 50, "status": "confirmed", "expected_arrival": "2026-09-05"},
+    {"sku": "DEMO-028", "quantity": 100, "status": "confirmed", "expected_arrival": "2026-09-15"},
+    {"sku": "DEMO-036", "quantity": 80, "status": "confirmed", "expected_arrival": "2026-09-06"}
+  ]
+}
+

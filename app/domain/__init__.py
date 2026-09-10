@@ -1,0 +1,1 @@
+"""Source-independent business models."""

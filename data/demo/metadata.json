@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0",
+  "dataset_id": "ozon-copilot-demo-2026-09-02",
+  "description": "Fictional deterministic portfolio-demo inputs",
+  "reference_time": "2026-09-02T09:00:00+03:00",
+  "as_of_date": "2026-09-02",
+  "sales_history_start": "2026-08-05",
+  "sales_history_end": "2026-09-01",
+  "currency": "RUB",
+  "timezone": "Europe/Moscow",
+  "product_count": 38,
+  "source": {
+    "source_type": "demo",
+    "provider": "demo_dataset",
+    "source_timestamp": "2026-09-02T09:00:00+03:00"
+  },
+  "disclaimer": "All records and values are fictional and do not imply live Ozon API access."
+}
+

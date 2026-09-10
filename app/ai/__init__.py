@@ -1,0 +1,1 @@
+"""Grounded AI interpretation boundary."""

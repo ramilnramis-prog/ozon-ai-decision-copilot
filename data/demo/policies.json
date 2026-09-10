@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "fixture_notice": "Demo-only inputs; not production defaults or Ozon rules.",
+  "source": {
+    "source_type": "demo",
+    "provider": "demo_dataset",
+    "source_timestamp": "2026-09-02T09:00:00+03:00"
+  },
+  "sales": {
+    "policy_id": "demo-sales-policy",
+    "version": "1",
+    "averaging_window_days": 14,
+    "comparison_window_days": 14,
+    "material_change_threshold": "0.25"
+  },
+  "inventory": {
+    "policy_id": "demo-inventory-policy",
+    "version": "1",
+    "target_coverage_days": 30,
+    "warning_window_days": 7,
+    "overstock_threshold_days": 90
+  },
+  "economics": {
+    "policy_id": "demo-economics-policy",
+    "version": "1",
+    "currency": "RUB",
+    "minimum_profit_per_unit": "100.00",
+    "minimum_margin_rate": "0.20",
+    "price_floor": "300.00",
+    "currency_quantum": "0.01",
+    "price_increment": "1.00"
+  }
+}
