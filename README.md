@@ -9,6 +9,26 @@ The application combines Python analytics, explicit decision rules, a Priority A
 
 > **Python calculates. AI interprets and explains. A human approves any future action.**
 
+## My Role
+
+This project was developed with extensive AI coding assistance.
+
+My role included:
+
+- defining the product idea and business requirements;
+- describing the expected user flows and application logic;
+- breaking the project into implementation tasks;
+- making product and architecture decisions together with AI coding tools;
+- reviewing generated implementations and testing the result;
+- checking that the application behavior matches the intended business logic;
+- iterating on the project based on detected issues and test results.
+
+I can explain the purpose of the system, its main architecture, data flow,
+business logic and how its major components work.
+
+I use AI coding tools as part of the development process rather than claiming
+that every line of code was written manually.
+
 ## Screenshots
 
 These genuine Streamlit captures use the repository's synthetic local demo data in read-only mode. They do not show a live Ozon connection or production deployment.
