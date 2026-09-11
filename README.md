@@ -24,10 +24,10 @@ My role included:
 - iterating on the project based on detected issues and test results.
 
 I can explain the purpose of the system, its main architecture, data flow,
-business logic and how its major components work.
+business logic, key technical decisions and how its major components work.
 
-I use AI coding tools as part of the development process rather than claiming
-that every line of code was written manually.
+AI coding tools were used extensively during implementation, while I focused on
+product requirements, architecture decisions, validation, testing and iteration.
 
 ## Screenshots
 
